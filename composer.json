@@ -1,0 +1,16 @@
+{
+    "name": "amin3mej/setting",
+    "description": "a module for yii2 that make setting crud and component",
+    "type": "library",
+    "require": {
+        "yiisoft/yii2": "2.0.11.2"
+    },
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "S.M.A.",
+            "email": "amin3mej@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
