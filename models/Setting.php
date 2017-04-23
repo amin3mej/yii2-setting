@@ -1,6 +1,6 @@
 <?php
 
-namespace app\modules\setting\models;
+namespace amin3mej\setting\models;
 
 use Yii;
 

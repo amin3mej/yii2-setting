@@ -4,7 +4,7 @@ use yii\helpers\Html;
 use yii\widgets\DetailView;
 
 /* @var $this yii\web\View */
-/* @var $model app\modules\setting\models\Setting */
+/* @var $model amin3mej\setting\models\Setting */
 
 $this->title = $model->key;
 $this->params['breadcrumbs'][] = ['label' => 'تنظیمات', 'url' => ['index']];

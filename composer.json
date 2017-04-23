@@ -11,5 +11,10 @@
             "name": "S.M.A.",
             "email": "amin3mej@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "amin3mej\\setting\\": ""
+        }
+    },
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace app\modules\setting;
+namespace amin3mej\setting;
 
 /**
  * setting module definition class
@@ -10,7 +10,7 @@ class Module extends \yii\base\Module
     /**
      * @inheritdoc
      */
-    public $controllerNamespace = 'app\modules\setting\controllers';
+    public $controllerNamespace = 'amin3mej\setting\controllers';
 
     /**
      * @inheritdoc

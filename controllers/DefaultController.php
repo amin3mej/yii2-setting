@@ -1,9 +1,9 @@
 <?php
 
-namespace app\modules\setting\controllers;
+namespace amin3mej\setting\controllers;
 
 use Yii;
-use app\modules\setting\models\Setting;
+use amin3mej\setting\models\Setting;
 use yii\data\ActiveDataProvider;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;

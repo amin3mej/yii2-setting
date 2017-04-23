@@ -3,7 +3,7 @@
 use yii\helpers\Html;
 
 /* @var $this yii\web\View */
-/* @var $model app\modules\setting\models\Setting */
+/* @var $model amin3mej\setting\models\Setting */
 
 $this->title = 'بروزرسانی ' . $model->key;
 $this->params['breadcrumbs'][] = ['label' => 'تنظیمات', 'url' => ['index']];

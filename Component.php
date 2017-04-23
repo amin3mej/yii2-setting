@@ -1,6 +1,6 @@
 <?php
-namespace app\modules\setting;
-use app\modules\setting\models\Setting;
+namespace amin3mej\setting;
+use amin3mej\setting\models\Setting;
 use yii\base\Component as ComponentParent;
 use yii\helpers\ArrayHelper;
 
