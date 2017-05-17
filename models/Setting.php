@@ -39,8 +39,9 @@ class Setting extends \yii\db\ActiveRecord
     {
         return [
             'id' => 'ID',
-            'key' => 'کلید',
-            'value' => 'ارزش',
+            'key' => 'نام',
+            'value' => 'مقدار',
+            'description' => 'توضیحاتگ,
         ];
     }
 }
