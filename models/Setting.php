@@ -41,7 +41,7 @@ class Setting extends \yii\db\ActiveRecord
             'id' => 'ID',
             'key' => 'نام',
             'value' => 'مقدار',
-            'description' => 'توضیحاتگ,
+            'description' => 'توضیحات',
         ];
     }
 }
