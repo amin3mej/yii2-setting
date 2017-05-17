@@ -12,9 +12,11 @@ use yii\widgets\ActiveForm;
 
     <?php $form = ActiveForm::begin(); ?>
 
-    <?= $form->field($model, 'key')->textInput(['disabled' => true, 'maxlength' => true]) ?>
+    <?= $form->field($model, 'key')->textInput(['disabled' => true]) ?>
 
     <?= $form->field($model, 'value')->textarea(['rows' => 6]) ?>
+
+    <?= $form->field($model, 'description')->textarea(['disabled' => true]) ?>
 
     <div class="form-group">
         <?= Html::submitButton('بروزرسانی', ['class' => 'btn btn-primary']) ?>
